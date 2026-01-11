@@ -3,6 +3,7 @@
 AI Fruit Ninja is a modern re-creation of the classic Fruit Ninja game using Python, OpenCV, and MediaPipe.
 The game detects your hand movements through the webcam and slices fruits when your finger crosses them on screen.
 
+
 This project demonstrates the real-world use of:
 
 Computer Vision
@@ -12,6 +13,7 @@ Hand Tracking
 Real-time interaction
 
 AI-based gesture control
+
 
 ✨ Features
 
@@ -29,6 +31,7 @@ AI-based gesture control
 
 🧠 Powered by AI + Computer Vision
 
+
 🛠️ Technologies Used
 
 Python
@@ -38,6 +41,7 @@ OpenCV
 MediaPipe
 
 NumPy
+
 
 Pygame (for sounds & visuals)
 
@@ -62,7 +66,6 @@ cd ai-fruit-ninja-main
 2️⃣ Install Required Libraries
 pip install -r requirements.txt
 
-
 If you don’t have requirements.txt, install manually:
 
 pip install opencv-python mediapipe numpy pygame
@@ -85,12 +88,14 @@ python main.py
 
 🔄 Restart by running the program again
 
+
 📸 Gameplay Preview
 
 Real-time hand tracking with slicing motion
 Fruits respond instantly to finger movement
 
 (You can add screenshots or a demo video link here later)
+
 
 🎯 Use Cases
 
@@ -104,6 +109,7 @@ Portfolio showcase
 
 Hackathon project
 
+
 🚧 Future Enhancements
 
 🏆 Scoreboard & levels
@@ -116,6 +122,7 @@ Hackathon project
 
 🤖 Advanced AI prediction for slicing
 
+
 👨‍💻 Author
 
 Sam Wilson
@@ -124,10 +131,12 @@ AI & Full-Stack Developer
 
 📧 Email: samwilson2323@gmail.com
 
+
 📜 License
 
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute it.
+
 
 ⭐ Support
 
