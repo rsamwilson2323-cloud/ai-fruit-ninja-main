@@ -3,7 +3,6 @@
 AI Fruit Ninja is a modern re-creation of the classic Fruit Ninja game using python, OpenCV, and MediaPipe.
 The game detects your hand movements through the webcam and slices fruits when your finger crosses them on screen.
 
-
 This project demonstrates the real-world use of:
 
 Computer Vision
