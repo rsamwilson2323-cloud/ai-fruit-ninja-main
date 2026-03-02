@@ -14,7 +14,6 @@ Real-time interaction
 
 AI-based gesture control
 
-
 ✨ Features
 
 🖐️ Hand Gesture Control (no keyboard or mouse)
