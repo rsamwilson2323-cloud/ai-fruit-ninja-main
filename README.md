@@ -1,117 +1,145 @@
-🚀 Project Overview
+# 🍉 AI Fruit Ninja
 
-AI Fruit Ninja is a modern re-creation of the classic Fruit Ninja game using python, OpenCV, and MediaPipe.
-The game detects your hand movements through the webcam and slices fruits when your finger crosses them on screen.
+AI Fruit Ninja is a modern recreation of the classic **Fruit Ninja game** built using **Python, OpenCV, MediaPipe, and Computer Vision**.
 
+The game detects **hand movements through a webcam** and slices fruits when your finger crosses them on the screen. It demonstrates how **AI-powered hand tracking and real-time interaction** can be used to control games without a keyboard or mouse.
 
-This project demonstrates the real-world use of:
+---
 
-Computer Vision
+# 🚀 Project Overview
 
-Hand Tracking
+This project showcases real-world applications of:
 
-Real-time interaction
+👁️ Computer Vision
+🖐️ Hand Tracking
+⚡ Real-Time Interaction
+🤖 AI-Based Gesture Control
 
-AI-based gesture control
+Players slice fruits using **hand gestures captured from the webcam**.
 
-✨ Features
+---
 
-🖐️ Hand Gesture Control (no keyboard or mouse)
+# ✨ Features
 
-🎥 Real-time Webcam Detection
+🖐️ **Hand Gesture Control** (no keyboard or mouse required)
 
-🍎 Random Fruit Spawning
+🎥 **Real-time webcam detection**
 
-💣 Bomb Detection (Game Over Logic)
+🍎 **Random fruit spawning**
 
-🔪 Smooth Slice Animation
+💣 **Bomb detection with game over logic**
 
-⚡ Fast & Responsive Gameplay
+🔪 **Smooth fruit slicing animation**
 
-🧠 Powered by AI + Computer Vision
+⚡ **Fast and responsive gameplay**
 
+🧠 Powered by **AI + Computer Vision**
 
-🛠️ Technologies Used
+---
 
-Python
+# 🛠 Technologies Used
 
-OpenCV
+* Python 🐍
+* OpenCV – Computer vision processing
+* MediaPipe – Hand tracking
+* NumPy – Mathematical operations
+* Pygame – Sounds and visual effects
 
-MediaPipe
+---
 
-NumPy
+# 📂 Project Structure
 
-
-Pygame (for sounds & visuals)
-
-📂 Project Structure
-ai-fruit-ninja-main/
+```id="sz02z4"
+ai-fruit-ninja-main
 │
-├── assets/
-│   ├── fruits/
-│   ├── bombs/
-│   ├── sounds/
+├── assets
+│   ├── fruits
+│   ├── bombs
+│   ├── sounds
 │
 ├── main.py
 ├── hand_tracking.py
 ├── requirements.txt
 └── README.md
+```
 
-⚙️ Installation & Setup
-1️⃣ Clone the Repository
+---
+
+# ⚙️ Installation
+
+## 1️⃣ Clone the Repository
+
+```id="5b90b0"
 git clone https://github.com/rsamwilson2323-cloud/ai-fruit-ninja-main.git
 cd ai-fruit-ninja-main
+```
 
-2️⃣ Install Required Libraries
+---
+
+## 2️⃣ Install Required Libraries
+
+```id="u2y0pr"
 pip install -r requirements.txt
+```
 
-If you don’t have requirements.txt, install manually:
+If you do not have `requirements.txt`, install manually:
 
+```id="p16kr1"
 pip install opencv-python mediapipe numpy pygame
+```
 
-▶️ How to Run the Game
+---
+
+# ▶️ How to Run the Game
+
+```id="sne2v3"
 python main.py
+```
 
+📌 Make sure your **webcam is connected and enabled**.
 
-📌 Make sure your webcam is connected and allowed.
+---
 
-🕹️ How to Play
+# 🕹️ How to Play
 
-✋ Show your hand in front of the webcam
+✋ Show your **hand in front of the webcam**
 
-☝️ Use your index finger to slice fruits
+☝️ Use your **index finger to slice fruits**
 
-🍉 Slice fruits to gain points
+🍉 Slice fruits to **gain points**
 
 💣 Avoid bombs — touching one ends the game
 
 🔄 Restart by running the program again
 
+---
 
-📸 Gameplay Preview
+# 📸 Gameplay Preview
 
-Real-time hand tracking with slicing motion
-Fruits respond instantly to finger movement
+Real-time **hand tracking with slicing motion**.
+Fruits respond instantly to finger movement.
 
-(You can add screenshots or a demo video link here later)
+*(You can add screenshots or a demo video here later.)*
 
+---
 
-🎯 Use Cases
+# 🎯 Use Cases
 
-AI & Computer Vision learning project
+📚 AI and Computer Vision learning project
 
-College mini / major project
+🎓 College mini or major project
 
-Gesture-controlled gaming demo
+🎮 Gesture-controlled gaming demo
 
-Portfolio showcase
+💼 Portfolio project showcase
 
-Hackathon project
+🏆 Hackathon project
 
+---
 
-🚧 Future Enhancements
+# 🚧 Future Enhancements
 
-🏆 Scoreboard & levels
+🏆 Scoreboard and levels
 
 🎯 Difficulty modes
 
@@ -121,23 +149,33 @@ Hackathon project
 
 🤖 Advanced AI prediction for slicing
 
+---
 
-👨‍💻 Author
+# 👨‍💻 Author
 
-Sam Wilson
+**Sam Wilson**
+
 AI & Full-Stack Developer
-💡 250+ Projects | AI | IoT | Computer Vision
 
-📧 Email: samwilson2323@gmail.com
+💡 AI | IoT | Computer Vision Projects
+
+🌐 GitHub
+https://github.com/rsamwilson2323-cloud
+
+💼 LinkedIn
+https://www.linkedin.com/in/sam-wilson-14b554385
 
 
-📜 License
+---
 
-This project is licensed under the MIT License.
+# 📜 License
+
+This project is licensed under the **MIT License**.
 You are free to use, modify, and distribute it.
 
+---
 
-⭐ Support
+# ⭐ Support
 
 If you like this project:
 
